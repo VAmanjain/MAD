@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Voice Controlled Watch</string>
+    <string name="app_title">Voice Watch</string>
+
+    <!-- Navigation -->
+    <string name="switch_to_timer">Switch to Timer</string>
+    <string name="switch_to_stopwatch">Switch to Stopwatch</string>
+
+    <!-- Voice control -->
+    <string name="start_listening">Start Listening</string>
+    <string name="stop_listening">Stop Listening</string>
+    <string name="listening">Listening…</string>
+    <string name="processing">Processing…</string>
+    <string name="ready">Ready for voice commands</string>
+    <string name="error_listening">Error listening</string>
+    <string name="recognized_command">Recognized: %1$s</string>
+    <string name="permission_granted">Microphone permission granted</string>
+    <string name="permission_denied">Microphone permission denied. App cannot function.</string>
+
+    <!-- Common controls -->
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+
+    <!-- Stopwatch -->
+    <string name="stopwatch_label">STOPWATCH</string>
+    <string name="initial_stopwatch_time">00:00.00</string>
+    <string name="stopwatch_voice_commands_hint">Try saying: \"start\", \"stop\", or \"reset\"</string>
+
+    <!-- Timer -->
+    <string name="timer_label">TIMER</string>
+    <string name="initial_timer_time">00:00</string>
+    <string name="timer_voice_commands_hint">Try saying: \"set timer for 2 minutes and 30 seconds\"</string>
+    <string name="timer_finished">Timer finished!</string>
+    <string name="set_time_first">Please set time first</string>
+    <string name="increase_time">+30s</string>
+    <string name="decrease_time">-30s</string>
+
+<!--    Trigger-->
+
+    <string name="waiting_for_trigger">Waiting for \"Hey Watch\"...</string>
+    <string name="enable_trigger_mode">Enable Trigger Mode</string>
+    <string name="disable_trigger_mode">Disable Trigger Mode</string>
+    <string name="trigger_mode_active">Trigger mode active. Listening for commands...</string>
+    <string name="trigger_mode_off">Trigger mode disabled</string>
+</resources>
